@@ -121,7 +121,7 @@ def drawAnimation(coordsMiddle, coordsOutside, a, b):
 # the main loop
 def mainLoop():
 
-    a = 60.
+    a = 120.
     b = 120.
     frame1.setWidth(b*2+ a)
     frame1.setHeight(b*2+ a)
